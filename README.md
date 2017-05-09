@@ -1,2 +1,1 @@
-# global-studies
-README.md
+
