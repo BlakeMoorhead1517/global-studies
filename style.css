@@ -5,6 +5,9 @@ h1 {
     color: Black;
 }
 
+body {
+    backround-color: blue;
+}
 p {
     font-family: fantasy;
     font-size: 20px;
