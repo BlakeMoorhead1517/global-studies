@@ -2,7 +2,7 @@
 h1 {
     font-family: none;
     font-size: 20px;
-    color: Black;
+    color: white;
 }
 
 body {
@@ -10,7 +10,7 @@ body {
 }
 p {
     font-family: fantasy;
-    font-size: 20px;
+    font-size: 30px;
     color: Black
 }
 ul {
