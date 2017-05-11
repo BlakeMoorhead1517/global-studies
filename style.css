@@ -1,12 +1,12 @@
 
 h1 {
-    font-family: fantasy;
+    font-family: none;
     font-size: 20px;
     color: Black;
 }
 
 body {
-    backround-color: blue;
+    background-color: blue;
 }
 p {
     font-family: fantasy;
